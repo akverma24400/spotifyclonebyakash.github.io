@@ -1,2 +1,2 @@
 # spotifyclonebyakash
-This is a Resopnsive Spotify Clone made by using HTML , CSS and Java Script.
+This is a Resopnsive Spotify Clone made by using HTML , CSS and JS.
